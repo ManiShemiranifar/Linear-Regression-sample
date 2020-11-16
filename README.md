@@ -1,2 +1,2 @@
 # Linear-Regression-sample
-Predicet prices for diamonds with linear regression
+Predict prices for diamonds with linear regression
